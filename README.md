@@ -110,9 +110,9 @@ Results are saved in `Output.xlsx` with the following metrics:
 
 ## Author
 
-This Comment Toxicity Model was developed by :
+This Text Analysis and Data Extraction project was developed by :
 -	[@katakampranav](https://github.com/katakampranav)
--	Repository : https://github.com/katakampranav/Data-Extraction-and-NLP
+-	Repository : https://github.com/katakampranav/Text Analysis and Data Extraction
 
 ## Feedback
 
